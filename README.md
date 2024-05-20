@@ -16,7 +16,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo un experienc
 + **Google Fonts:** Para fuentes personalizadas
 
 ### Vista Previa del Proyecto
------Pendiente-----
+![Demo](imagenes/PinterestScreen.png)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIin](www.linkedin.com/in/sarahi-garcilazo-870b551b3).
