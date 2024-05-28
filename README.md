@@ -16,6 +16,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo un experienc
 + **Google Fonts:** Para fuentes personalizadas
 
 ### Vista Previa del Proyecto
+[Pinterest Cloncito](https://pinterest-cloncito.vercel.app/)
 ![Demo](imagenes/PinterestScreen.png)
 
 ### Contacto
